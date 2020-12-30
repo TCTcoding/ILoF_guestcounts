@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import pandas as pd
 
+date = '20201229'
 url = 'https://inlieuof.fun/episodes.html'
 
 page = urlopen(url).read()
@@ -35,3 +36,5 @@ data = data.guests.apply(pd.Series)\
     ## drop the variables column (because these are the meaningless column numbers maded during the pd.Series step)
     ## lastly, the pd.Series step added "empty" values because not all shows had the same number of guests, so drop all rows where the guest is 'NaN'
 data.sort_values(by='date',ascending=False, inplace=True)
+data.to_csv('guest_list_{}.csv'.format(date), index=False)
+data['guest'].value_counts().to_csv('guest_counts_{}.csv'.format(date))
