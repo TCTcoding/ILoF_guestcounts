@@ -1,0 +1,343 @@
+episodeID,date,guest_n,guests,guest
+278,2020-12-29,1,['Stephen Wertheim'],Stephen Wertheim
+277,2020-12-28,1,['Yaya J. Fanusie'],Yaya J. Fanusie
+276,2020-12-27,3,"['Alan Rozenshtein', 'David Priess', 'Mike Chase']",David Priess
+276,2020-12-27,3,"['Alan Rozenshtein', 'David Priess', 'Mike Chase']",Alan Rozenshtein
+276,2020-12-27,3,"['Alan Rozenshtein', 'David Priess', 'Mike Chase']",Mike Chase
+275,2020-12-26,1,['(just your hosts)'],(just your hosts)
+274,2020-12-25,1,['(just your hosts)'],(just your hosts)
+273,2020-12-24,1,['Tim Miller'],Tim Miller
+272,2020-12-23,1,['Heather Cox Richardson'],Heather Cox Richardson
+271,2020-12-22,2,"['Jonathan Rauch', 'Norm Eisen']",Norm Eisen
+271,2020-12-22,2,"['Jonathan Rauch', 'Norm Eisen']",Jonathan Rauch
+270,2020-12-21,1,['Kaeli Swift'],Kaeli Swift
+269,2020-12-20,1,['Jasmine El-Gamal'],Jasmine El-Gamal
+268,2020-12-19,1,['(just your hosts)'],(just your hosts)
+267,2020-12-18,1,['Mieke Eoyang'],Mieke Eoyang
+266,2020-12-17,1,['Susan Landau'],Susan Landau
+265,2020-12-16,1,['Andy Slavitt'],Andy Slavitt
+264,2020-12-15,1,['Peter Strzok'],Peter Strzok
+263,2020-12-14,1,['Asha Rangappa'],Asha Rangappa
+262,2020-12-13,1,['Sarah Longwell'],Sarah Longwell
+261,2020-12-12,1,['(just your hosts)'],(just your hosts)
+260,2020-12-11,1,['David French'],David French
+259,2020-12-10,2,"['Jonathan Rauch', 'Scott Shapiro']",Scott Shapiro
+259,2020-12-10,2,"['Jonathan Rauch', 'Scott Shapiro']",Jonathan Rauch
+258,2020-12-09,1,['Alex Finley'],Alex Finley
+257,2020-12-08,1,['Nicholson Price'],Nicholson Price
+256,2020-12-07,1,['Mark Lemley'],Mark Lemley
+255,2020-12-06,1,['Juliette Kayyem'],Juliette Kayyem
+254,2020-12-05,1,['(just your hosts)'],(just your hosts)
+253,2020-12-04,1,['David Kaye'],David Kaye
+252,2020-12-03,1,['Marc Polymeropoulos'],Marc Polymeropoulos
+251,2020-12-02,1,['Sarah Bond'],Sarah Bond
+250,2020-12-01,2,"['Molly Michelmore', 'Vanessa Williamson']",Molly Michelmore
+250,2020-12-01,2,"['Molly Michelmore', 'Vanessa Williamson']",Vanessa Williamson
+249,2020-11-30,1,['Alex Gibney'],Alex Gibney
+248,2020-11-29,1,['Molly Brady'],Molly Brady
+247,2020-11-28,1,['(just your hosts)'],(just your hosts)
+246,2020-11-27,1,['John Sipher'],John Sipher
+245,2020-11-26,1,['(just your hosts)'],(just your hosts)
+244,2020-11-25,1,['Jennifer Mercieca'],Jennifer Mercieca
+243,2020-11-24,1,['Jordan Ellenberg'],Jordan Ellenberg
+242,2020-11-23,1,['Jack Goldsmith'],Jack Goldsmith
+241,2020-11-22,1,['The Audience'],The Audience
+240,2020-11-21,1,['(just your hosts)'],(just your hosts)
+239,2020-11-20,1,['The Audience'],The Audience
+238,2020-11-19,1,['Alessandro Nivola'],Alessandro Nivola
+237,2020-11-18,1,['Steve Vladeck'],Steve Vladeck
+236,2020-11-17,1,['Carrie Johnson'],Carrie Johnson
+235,2020-11-16,1,['Natalie Jackson'],Natalie Jackson
+234,2020-11-15,1,['Anna Salvatore'],Anna Salvatore
+233,2020-11-14,1,['(just your hosts)'],(just your hosts)
+232,2020-11-13,1,['John Q. Barrett'],John Q. Barrett
+231,2020-11-12,1,['David Allen Green'],David Allen Green
+230,2020-11-11,1,['Jonathan Rauch'],Jonathan Rauch
+229,2020-11-10,1,['Mike Pesca'],Mike Pesca
+228,2020-11-09,1,['Bill Galston'],Bill Galston
+227,2020-11-08,1,['David Priess'],David Priess
+226,2020-11-07,1,['(just your hosts)'],(just your hosts)
+225,2020-11-06,2,"['Virginia Heffernan', 'Windsor Mann']",Virginia Heffernan
+225,2020-11-06,2,"['Virginia Heffernan', 'Windsor Mann']",Windsor Mann
+224,2020-11-05,1,['Tim Miller'],Tim Miller
+223,2020-11-04,1,['Alan Rozenshtein'],Alan Rozenshtein
+222,2020-11-03,1,['Preet Bharara'],Preet Bharara
+221,2020-11-02,1,['Election 2020 Panel'],Election 2020 Panel
+220,2020-11-01,2,"['Sarah Longwell', 'Scott Shapiro']",Scott Shapiro
+220,2020-11-01,2,"['Sarah Longwell', 'Scott Shapiro']",Sarah Longwell
+219,2020-10-31,1,['Lisa Page'],Lisa Page
+218,2020-10-30,2,"['Alexandra Petri', 'Dan Drezner']",Alexandra Petri
+218,2020-10-30,2,"['Alexandra Petri', 'Dan Drezner']",Dan Drezner
+217,2020-10-29,2,"['Ken White', 'Matthew Miller']",Matthew Miller
+217,2020-10-29,2,"['Ken White', 'Matthew Miller']",Ken White
+216,2020-10-28,2,"['Mike Chase', 'Virginia Heffernan']",Virginia Heffernan
+216,2020-10-28,2,"['Mike Chase', 'Virginia Heffernan']",Mike Chase
+215,2020-10-27,1,['Kashmir Hill'],Kashmir Hill
+214,2020-10-26,1,['Laura Rosenberger'],Laura Rosenberger
+213,2020-10-25,1,['Samm Sacks'],Samm Sacks
+212,2020-10-24,1,['(just your hosts)'],(just your hosts)
+211,2020-10-23,1,['Brian Beutler'],Brian Beutler
+210,2020-10-22,1,['Scott Hechinger'],Scott Hechinger
+209,2020-10-21,1,['Jonathan Rauch'],Jonathan Rauch
+208,2020-10-20,2,"['Emily Bazelon', 'Sarah Longwell']",Emily Bazelon
+208,2020-10-20,2,"['Emily Bazelon', 'Sarah Longwell']",Sarah Longwell
+207,2020-10-19,1,['Kori Schake'],Kori Schake
+206,2020-10-18,2,"['Annie Karni', 'Jonathan Rauch']",Annie Karni
+206,2020-10-18,2,"['Annie Karni', 'Jonathan Rauch']",Jonathan Rauch
+205,2020-10-17,1,['(just your hosts)'],(just your hosts)
+204,2020-10-16,1,['Daniel Klaidman'],Daniel Klaidman
+203,2020-10-15,3,"['Dahlia Lithwick', 'Kate Shaw', 'Leah Litman']",Kate Shaw
+203,2020-10-15,3,"['Dahlia Lithwick', 'Kate Shaw', 'Leah Litman']",Leah Litman
+203,2020-10-15,3,"['Dahlia Lithwick', 'Kate Shaw', 'Leah Litman']",Dahlia Lithwick
+202,2020-10-14,1,['Tim Miller'],Tim Miller
+201,2020-10-13,1,['Kathleen Belew'],Kathleen Belew
+200,2020-10-12,2,"['Molly Jong-Fast', 'Rick Wilson']",Rick Wilson
+200,2020-10-12,2,"['Molly Jong-Fast', 'Rick Wilson']",Molly Jong-Fast
+199,2020-10-11,1,['Kate Gage'],Kate Gage
+198,2020-10-10,1,['(just your hosts)'],(just your hosts)
+197,2020-10-09,1,['Jack Balkin'],Jack Balkin
+196,2020-10-08,1,['Barton Gellman'],Barton Gellman
+195,2020-10-07,1,['Peter Strzok'],Peter Strzok
+194,2020-10-06,1,['Natasha Bertrand'],Natasha Bertrand
+193,2020-10-05,1,['Camille Busette'],Camille Busette
+192,2020-10-04,1,['Michael Sean Winters'],Michael Sean Winters
+191,2020-10-03,1,['(just your hosts)'],(just your hosts)
+190,2020-10-02,1,['Windsor Mann'],Windsor Mann
+189,2020-10-01,1,['Sarah Longwell'],Sarah Longwell
+188,2020-09-30,1,['Tom Nichols'],Tom Nichols
+187,2020-09-29,1,['Jason Leopold'],Jason Leopold
+186,2020-09-28,1,['Brian Christian'],Brian Christian
+185,2020-09-27,1,['Alan Rozenshtein'],Alan Rozenshtein
+184,2020-09-26,1,['(just your hosts)'],(just your hosts)
+183,2020-09-25,1,['Anne Applebaum'],Anne Applebaum
+182,2020-09-24,1,['Scott Shapiro'],Scott Shapiro
+181,2020-09-23,1,['David Priess'],David Priess
+180,2020-09-22,1,['Sarah Longwell'],Sarah Longwell
+179,2020-09-21,1,['David Frum'],David Frum
+178,2020-09-20,1,['Lisa Kaplan'],Lisa Kaplan
+177,2020-09-19,1,['Susan Hennessey'],Susan Hennessey
+176,2020-09-18,1,['Kate Starbird'],Kate Starbird
+175,2020-09-17,1,['Bianna Golodryga'],Bianna Golodryga
+174,2020-09-16,1,['Mai El-Sadany'],Mai El-Sadany
+173,2020-09-15,2,"['Joshua Tucker', 'Nate Persily']",Joshua Tucker
+173,2020-09-15,2,"['Joshua Tucker', 'Nate Persily']",Nate Persily
+172,2020-09-14,1,['Michael Isikoff'],Michael Isikoff
+171,2020-09-13,1,['Jeff Horwitz'],Jeff Horwitz
+170,2020-09-12,1,['(just your hosts)'],(just your hosts)
+169,2020-09-11,1,['Ben Smith'],Ben Smith
+168,2020-09-10,1,['Emily Bazelon'],Emily Bazelon
+167,2020-09-09,1,['Carl T. Bergstrom'],Carl T. Bergstrom
+166,2020-09-08,1,['Jamelle Bouie'],Jamelle Bouie
+165,2020-09-07,1,['Cynthia Estlund'],Cynthia Estlund
+164,2020-09-06,2,"['Dan Drezner', 'Ian Enright']",Dan Drezner
+164,2020-09-06,2,"['Dan Drezner', 'Ian Enright']",Ian Enright
+163,2020-09-05,1,['(just your hosts)'],(just your hosts)
+162,2020-09-04,1,['Adam Davidson'],Adam Davidson
+161,2020-09-03,1,['Alan Rozenshtein'],Alan Rozenshtein
+160,2020-09-02,1,['Michel Paradis'],Michel Paradis
+159,2020-09-01,1,['Molly Jong-Fast'],Molly Jong-Fast
+158,2020-08-31,2,"['Alex Stamos', 'Paul Rosenzweig']",Paul Rosenzweig
+158,2020-08-31,2,"['Alex Stamos', 'Paul Rosenzweig']",Alex Stamos
+157,2020-08-30,1,['Jeremy Sheff'],Jeremy Sheff
+156,2020-08-29,1,['(just your hosts)'],(just your hosts)
+155,2020-08-28,3,"['Danielle Citron', 'Rachel ""The Doc"" Bitecofer', 'Tim Miller']",Tim Miller
+155,2020-08-28,3,"['Danielle Citron', 'Rachel ""The Doc"" Bitecofer', 'Tim Miller']","Rachel ""The Doc"" Bitecofer"
+155,2020-08-28,3,"['Danielle Citron', 'Rachel ""The Doc"" Bitecofer', 'Tim Miller']",Danielle Citron
+154,2020-08-27,1,['Margaret Taylor'],Margaret Taylor
+153,2020-08-26,1,['Richard Pildes'],Richard Pildes
+152,2020-08-25,1,"['Rachel ""The Doc"" Bitecofer']","Rachel ""The Doc"" Bitecofer"
+151,2020-08-24,1,['Charlie Sykes'],Charlie Sykes
+150,2020-08-23,1,['Anne Milgram'],Anne Milgram
+149,2020-08-22,1,['(just your hosts)'],(just your hosts)
+148,2020-08-21,1,['Scott Shapiro'],Scott Shapiro
+147,2020-08-20,1,['Sarah Longwell'],Sarah Longwell
+146,2020-08-19,1,['Jill Filipovic'],Jill Filipovic
+145,2020-08-18,1,['Jack Balkin'],Jack Balkin
+144,2020-08-17,1,['Jameel Jaffer'],Jameel Jaffer
+143,2020-08-16,1,['Carrie Goldberg'],Carrie Goldberg
+142,2020-08-15,1,['(just your hosts)'],(just your hosts)
+141,2020-08-14,1,['Natalie Jackson'],Natalie Jackson
+140,2020-08-13,1,['Richard R. John'],Richard R. John
+139,2020-08-12,1,['G. Elliott Morris'],G. Elliott Morris
+138,2020-08-11,1,['Josh Chafetz'],Josh Chafetz
+137,2020-08-10,1,['Virginia Heffernan'],Virginia Heffernan
+136,2020-08-09,1,['Julian Davis Mortenson'],Julian Davis Mortenson
+135,2020-08-08,1,['(just your hosts)'],(just your hosts)
+134,2020-08-07,1,['Janet Turk Wittes'],Janet Turk Wittes
+133,2020-08-06,1,['Deepak Gupta'],Deepak Gupta
+132,2020-08-05,1,['Nate Persily'],Nate Persily
+131,2020-08-04,1,['Dan Drezner'],Dan Drezner
+130,2020-08-03,1,['Kara Swisher'],Kara Swisher
+129,2020-08-02,1,['Allegra Love'],Allegra Love
+128,2020-08-01,1,['(just your hosts)'],(just your hosts)
+127,2020-07-31,1,['Katie Phang'],Katie Phang
+126,2020-07-30,3,"['Alexandra Petri', 'Kathleen Belew', 'Mike Chase']",Mike Chase
+126,2020-07-30,3,"['Alexandra Petri', 'Kathleen Belew', 'Mike Chase']",Alexandra Petri
+126,2020-07-30,3,"['Alexandra Petri', 'Kathleen Belew', 'Mike Chase']",Kathleen Belew
+125,2020-07-29,3,"['Matthew Miller', 'Nate Persily', 'Tim Miller']",Tim Miller
+125,2020-07-29,3,"['Matthew Miller', 'Nate Persily', 'Tim Miller']",Matthew Miller
+125,2020-07-29,3,"['Matthew Miller', 'Nate Persily', 'Tim Miller']",Nate Persily
+124,2020-07-28,1,['Matthew Miller'],Matthew Miller
+123,2020-07-27,1,['Clare Malone'],Clare Malone
+122,2020-07-26,1,['Daniel Radosh'],Daniel Radosh
+121,2020-07-25,1,['(just your hosts)'],(just your hosts)
+120,2020-07-24,1,['Steven Levy'],Steven Levy
+119,2020-07-23,1,['Andy Slavitt'],Andy Slavitt
+118,2020-07-22,1,['Ross Trudeau'],Ross Trudeau
+117,2020-07-21,1,['(just your hosts)'],(just your hosts)
+116,2020-07-20,1,['Josh Sharfstein'],Josh Sharfstein
+115,2020-07-19,1,['(just your hosts)'],(just your hosts)
+114,2020-07-18,1,['Steve Vladeck'],Steve Vladeck
+113,2020-07-17,1,['Charlie Warzel'],Charlie Warzel
+112,2020-07-16,1,['Mike Chase'],Mike Chase
+111,2020-07-15,1,['Jill Filipovic'],Jill Filipovic
+110,2020-07-14,1,['Ian Heath Gershengorn'],Ian Heath Gershengorn
+109,2020-07-13,1,['Jeff Jarvis'],Jeff Jarvis
+108,2020-07-12,1,['Andrew Marantz'],Andrew Marantz
+107,2020-07-11,1,['(just your hosts)'],(just your hosts)
+106,2020-07-10,2,"['Alex Shephard', 'Jonathan Rauch']",Alex Shephard
+106,2020-07-10,2,"['Alex Shephard', 'Jonathan Rauch']",Jonathan Rauch
+105,2020-07-09,4,"['Dahlia Lithwick', 'Leah Litman', 'Margaret Taylor', 'Marty Lederman']",Marty Lederman
+105,2020-07-09,4,"['Dahlia Lithwick', 'Leah Litman', 'Margaret Taylor', 'Marty Lederman']",Leah Litman
+105,2020-07-09,4,"['Dahlia Lithwick', 'Leah Litman', 'Margaret Taylor', 'Marty Lederman']",Margaret Taylor
+105,2020-07-09,4,"['Dahlia Lithwick', 'Leah Litman', 'Margaret Taylor', 'Marty Lederman']",Dahlia Lithwick
+104,2020-07-08,3,"['Anna Salvatore', 'Marty Lederman', 'Thomas Berg']",Thomas Berg
+104,2020-07-08,3,"['Anna Salvatore', 'Marty Lederman', 'Thomas Berg']",Anna Salvatore
+104,2020-07-08,3,"['Anna Salvatore', 'Marty Lederman', 'Thomas Berg']",Marty Lederman
+103,2020-07-07,1,['Carrie Johnson'],Carrie Johnson
+102,2020-07-06,2,"['Leah Litman', 'Wilfred U. Codrington III']",Wilfred U. Codrington III
+102,2020-07-06,2,"['Leah Litman', 'Wilfred U. Codrington III']",Leah Litman
+101,2020-07-05,1,['David Priess'],David Priess
+100,2020-07-04,1,['(just your hosts)'],(just your hosts)
+99,2020-07-03,1,['Claudia Deane'],Claudia Deane
+98,2020-07-02,1,['Ada Palmer'],Ada Palmer
+97,2020-07-01,2,"['Alvin Cheung', 'Jordan Schneider']",Alvin Cheung
+97,2020-07-01,2,"['Alvin Cheung', 'Jordan Schneider']",Jordan Schneider
+96,2020-06-30,1,['Tim Miller'],Tim Miller
+95,2020-06-29,3,"['Leah Litman', 'Marty Lederman', 'Scott Anderson']",Leah Litman
+95,2020-06-29,3,"['Leah Litman', 'Marty Lederman', 'Scott Anderson']",Scott Anderson
+95,2020-06-29,3,"['Leah Litman', 'Marty Lederman', 'Scott Anderson']",Marty Lederman
+94,2020-06-28,1,['Mike Godwin'],Mike Godwin
+93,2020-06-27,1,['(just your hosts)'],(just your hosts)
+92,2020-06-26,1,['Dan Byman'],Dan Byman
+91,2020-06-25,1,['Camille François'],Camille François
+90,2020-06-24,2,"['Carrie Goldberg', 'Jonathan Zittrain']",Carrie Goldberg
+90,2020-06-24,2,"['Carrie Goldberg', 'Jonathan Zittrain']",Jonathan Zittrain
+89,2020-06-23,1,['Thomas Rid'],Thomas Rid
+88,2020-06-22,2,"['Adam Serwer', 'Julian Sanchez']",Adam Serwer
+88,2020-06-22,2,"['Adam Serwer', 'Julian Sanchez']",Julian Sanchez
+87,2020-06-21,1,['Rick Wilson'],Rick Wilson
+86,2020-06-20,2,"['Marty Lederman', 'Steve Vladeck']",Marty Lederman
+86,2020-06-20,2,"['Marty Lederman', 'Steve Vladeck']",Steve Vladeck
+85,2020-06-19,1,['Kathleen Belew'],Kathleen Belew
+84,2020-06-18,1,['Marty Lederman'],Marty Lederman
+83,2020-06-17,1,['Susan Hennessey'],Susan Hennessey
+82,2020-06-16,1,['Alina Polyakova'],Alina Polyakova
+81,2020-06-15,2,"['Anthony Michael Kries', 'Leah Litman']",Anthony Michael Kries
+81,2020-06-15,2,"['Anthony Michael Kries', 'Leah Litman']",Leah Litman
+80,2020-06-14,1,['Mike Pesca'],Mike Pesca
+79,2020-06-13,1,['(just your hosts)'],(just your hosts)
+78,2020-06-12,1,['Catherine Rampell'],Catherine Rampell
+77,2020-06-11,1,['Bill Kristol'],Bill Kristol
+76,2020-06-10,1,['Matthew Miller'],Matthew Miller
+75,2020-06-09,1,['Lawrence Lessig'],Lawrence Lessig
+74,2020-06-08,1,['Matt Yglesias'],Matt Yglesias
+73,2020-06-07,1,['Jonathan Rauch'],Jonathan Rauch
+72,2020-06-06,1,['(just your hosts)'],(just your hosts)
+71,2020-06-05,1,['Gail Albert Halaban'],Gail Albert Halaban
+70,2020-06-04,1,['David French'],David French
+69,2020-06-03,1,['Clint Watts'],Clint Watts
+68,2020-06-02,1,['Alex Stamos'],Alex Stamos
+67,2020-06-01,1,['Virginia Heffernan'],Virginia Heffernan
+66,2020-05-31,1,['Radley Balko'],Radley Balko
+65,2020-05-30,1,['(just your hosts)'],(just your hosts)
+64,2020-05-29,1,['Barry Friedman'],Barry Friedman
+63,2020-05-28,3,"['Eugene Volokh', 'Jack Balkin', 'Quinta Jurecic']",Jack Balkin
+63,2020-05-28,3,"['Eugene Volokh', 'Jack Balkin', 'Quinta Jurecic']",Quinta Jurecic
+63,2020-05-28,3,"['Eugene Volokh', 'Jack Balkin', 'Quinta Jurecic']",Eugene Volokh
+62,2020-05-27,1,['Paul Rosenzweig'],Paul Rosenzweig
+61,2020-05-26,1,['John Q. Barrett'],John Q. Barrett
+60,2020-05-25,1,['Surya Mattu'],Surya Mattu
+59,2020-05-24,1,['Carissa Byrne Hessick'],Carissa Byrne Hessick
+58,2020-05-23,1,['(just your hosts)'],(just your hosts)
+57,2020-05-22,2,"['Alvin Cheung', 'Ben Ponte']",Ben Ponte
+57,2020-05-22,2,"['Alvin Cheung', 'Ben Ponte']",Alvin Cheung
+56,2020-05-21,1,['Reginald Dwayne Betts'],Reginald Dwayne Betts
+55,2020-05-20,1,['Whit Stillman'],Whit Stillman
+54,2020-05-19,1,['Eric Landon'],Eric Landon
+53,2020-05-18,1,['Thyra Heder'],Thyra Heder
+52,2020-05-17,1,['Josh Marshall'],Josh Marshall
+51,2020-05-16,1,['(just your hosts)'],(just your hosts)
+50,2020-05-15,1,['Shane Harris'],Shane Harris
+49,2020-05-14,1,['Ken White'],Ken White
+48,2020-05-13,1,['Tom Wheeler'],Tom Wheeler
+47,2020-05-12,1,['Tim Miller'],Tim Miller
+46,2020-05-11,3,"['Jamal Greene', 'John Samples', 'Nicolas Suzor']",Jamal Greene
+46,2020-05-11,3,"['Jamal Greene', 'John Samples', 'Nicolas Suzor']",John Samples
+46,2020-05-11,3,"['Jamal Greene', 'John Samples', 'Nicolas Suzor']",Nicolas Suzor
+45,2020-05-10,2,"['Alan Rozenshtein', 'Hannah Neprash']",Alan Rozenshtein
+45,2020-05-10,2,"['Alan Rozenshtein', 'Hannah Neprash']",Hannah Neprash
+44,2020-05-09,1,['(just your hosts)'],(just your hosts)
+43,2020-05-08,1,['Emily Bell'],Emily Bell
+42,2020-05-07,1,['Margaret Taylor'],Margaret Taylor
+41,2020-05-06,3,"['Alex Macgillivray', 'Evelyn Douek', 'Nicole Wong']",Nicole Wong
+41,2020-05-06,3,"['Alex Macgillivray', 'Evelyn Douek', 'Nicole Wong']",Evelyn Douek
+41,2020-05-06,3,"['Alex Macgillivray', 'Evelyn Douek', 'Nicole Wong']",Alex Macgillivray
+40,2020-05-05,1,['Will DeWitt'],Will DeWitt
+39,2020-05-04,2,"['Dahlia Lithwick', 'Leah Litman']",Leah Litman
+39,2020-05-04,2,"['Dahlia Lithwick', 'Leah Litman']",Dahlia Lithwick
+38,2020-05-03,1,['Jeff Horwitz'],Jeff Horwitz
+37,2020-05-02,1,['Yascha Mounk'],Yascha Mounk
+36,2020-05-01,1,['Seth Magaziner'],Seth Magaziner
+35,2020-04-30,1,['David Plotz'],David Plotz
+34,2020-04-29,1,['Toomas Hendrick Ilves'],Toomas Hendrick Ilves
+33,2020-04-28,1,['Preet Bharara'],Preet Bharara
+32,2020-04-27,1,['Ada Palmer'],Ada Palmer
+31,2020-04-26,2,"['Sarah Longwell', 'Yascha Mounk']",Sarah Longwell
+31,2020-04-26,2,"['Sarah Longwell', 'Yascha Mounk']",Yascha Mounk
+30,2020-04-25,1,['(just your hosts)'],(just your hosts)
+29,2020-04-24,1,['Noah Feldman'],Noah Feldman
+28,2020-04-23,1,['Kate Darling'],Kate Darling
+27,2020-04-22,1,['Randy Barnett'],Randy Barnett
+26,2020-04-21,2,"['Lisa Page', 'Molly Jong-Fast']",Molly Jong-Fast
+26,2020-04-21,2,"['Lisa Page', 'Molly Jong-Fast']",Lisa Page
+25,2020-04-20,2,"['Orin Kerr', 'Scott Shapiro']",Orin Kerr
+25,2020-04-20,2,"['Orin Kerr', 'Scott Shapiro']",Scott Shapiro
+24,2020-04-19,2,"['Carrie Goldberg', 'Yorrick ""YoRock"" Anderson']","Yorrick ""YoRock"" Anderson"
+24,2020-04-19,2,"['Carrie Goldberg', 'Yorrick ""YoRock"" Anderson']",Carrie Goldberg
+23,2020-04-18,1,['(just your hosts)'],(just your hosts)
+22,2020-04-17,1,['Hannah Neprash'],Hannah Neprash
+21,2020-04-16,2,"['Dan Drezner', 'Maggie Feldman-Piltch']",Maggie Feldman-Piltch
+21,2020-04-16,2,"['Dan Drezner', 'Maggie Feldman-Piltch']",Dan Drezner
+20,2020-04-15,1,['Quinta Jurecic'],Quinta Jurecic
+19,2020-04-14,2,"['Jillian York', 'Sarah Roberts']",Jillian York
+19,2020-04-14,2,"['Jillian York', 'Sarah Roberts']",Sarah Roberts
+18,2020-04-13,1,['Evelyn Douek'],Evelyn Douek
+17,2020-04-12,1,['Jonathan Rauch'],Jonathan Rauch
+16,2020-04-11,1,['(just your hosts)'],(just your hosts)
+15,2020-04-10,1,['Doug Bernstein'],Doug Bernstein
+14,2020-04-09,1,['Kori Schake'],Kori Schake
+13,2020-04-08,2,"['Mike Pesca', 'Virginia Heffernan']",Mike Pesca
+13,2020-04-08,2,"['Mike Pesca', 'Virginia Heffernan']",Virginia Heffernan
+12,2020-04-07,1,['Alan Rozenshtein'],Alan Rozenshtein
+11,2020-04-06,2,"['Alex Stamos', 'Nate Persily']",Alex Stamos
+11,2020-04-06,2,"['Alex Stamos', 'Nate Persily']",Nate Persily
+10,2020-04-05,2,"['Dan Drezner', 'Scott Shapiro']",Dan Drezner
+10,2020-04-05,2,"['Dan Drezner', 'Scott Shapiro']",Scott Shapiro
+9,2020-04-04,1,['(just your hosts)'],(just your hosts)
+8,2020-04-03,1,['Amanda Sloat'],Amanda Sloat
+7,2020-04-02,2,"['Jack Balkin', 'Jordan Ellenberg']",Jordan Ellenberg
+7,2020-04-02,2,"['Jack Balkin', 'Jordan Ellenberg']",Jack Balkin
+6,2020-04-01,1,['Jon Turk'],Jon Turk
+5,2020-03-31,1,['Orin Kerr'],Orin Kerr
+4,2020-03-30,1,['Danielle Citron'],Danielle Citron
+3,2020-03-29,5,"['Cory Doctorow', 'Emily Hurson', 'Ken White', 'Mike Chase', 'Ross Garber']",Emily Hurson
+3,2020-03-29,5,"['Cory Doctorow', 'Emily Hurson', 'Ken White', 'Mike Chase', 'Ross Garber']",Cory Doctorow
+3,2020-03-29,5,"['Cory Doctorow', 'Emily Hurson', 'Ken White', 'Mike Chase', 'Ross Garber']",Ken White
+3,2020-03-29,5,"['Cory Doctorow', 'Emily Hurson', 'Ken White', 'Mike Chase', 'Ross Garber']",Mike Chase
+3,2020-03-29,5,"['Cory Doctorow', 'Emily Hurson', 'Ken White', 'Mike Chase', 'Ross Garber']",Ross Garber
+2,2020-03-28,2,"['Alex Stamos', 'Maggie Feldman-Piltch']",Maggie Feldman-Piltch
+2,2020-03-28,2,"['Alex Stamos', 'Maggie Feldman-Piltch']",Alex Stamos
+1,2020-03-27,1,['Anna Salvatore'],Anna Salvatore
+0,2020-03-26,1,['Danielle Citron'],Danielle Citron
+pilot,2020-03-25,1,['(just your hosts)'],(just your hosts)
